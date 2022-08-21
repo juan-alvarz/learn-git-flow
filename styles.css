@@ -12,7 +12,6 @@ body {
     width: 50%;
     text-align: center;
     margin: auto;
-    border-radius: 20px;
     box-shadow: 0 2px 4px 1px rgba(0, 0, 0, .6);
 }
 
@@ -27,4 +26,9 @@ body {
 
 .cabecera:hover {
     background-color: blanchedalmond;
+}
+
+.sectioner {
+    border: 1px solid whitesmoke;
+    display: flex;
 }
